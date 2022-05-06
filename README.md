@@ -1,0 +1,1 @@
+This repo enables detection of keypoints with the help of Mediapipe API. For conveince, an OpenCV script is implemented to create a dataset. A LSTM trainer is included to create the model. Base module enables inference on trained actions.
